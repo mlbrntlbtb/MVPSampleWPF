@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <title>SampleTest</title>
+  <author>Melbourne</author>
+  <description>This is a sample test.</description>
+  <filePath>C:\Users\Melbourne\source\repos\MVPSampleWPF\MVPSampleWPF\Tests\SampleTest.xml</filePath>
+  <browser>Chrome</browser>
+</test>
